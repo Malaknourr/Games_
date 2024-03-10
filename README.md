@@ -14,7 +14,7 @@
 4. if there wasn't any winner so it is a draw.
 
 ###### The Algorithm:
- 1. Print welcome and explain the game to the players.                                                                                                                                                                                                    
+1. Print welcome and explain the game to the players.                                                                                                                                                                                                    
 2. Set a scrabble list between 1 and 9.                                                                                                                                                                                                  
 3. Check the validation of their inputs by:                                                                                                                                                                                                                     
 3.1 setting 2 functions for the 2 players to check.                                                                                                                                                                    
