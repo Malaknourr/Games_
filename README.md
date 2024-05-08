@@ -24,7 +24,7 @@
 3.5 if there is no problem with the input, insert the chosen numbers from each player in their own lists called player_1 [] &player_2[].                                                                                                                                                                                                            
 4. Then, remove players’ inputs one by one from scrabble list as the number cannot be chosen twice.                                                                                                                                                                      
 5. Players will take their first two numbers with no effort.                                                                                                                                                              
-6. When the first player reaches 3 numbers in his own list we start to check if their sum = 15.                                                                                                                                                               
+6. When the first player reaches 3 numbers in his own list we start to check if their sum = 15.                                                                                                                                                         
 7. (we check the sum of every three different numbers only)
 
 7.1 If their sum = 15; Finish the game and the first player is the winner.
@@ -35,4 +35,4 @@
    
 #### how to play two squares game:
 ==> each player choose two neighbours squares to make a triangle and the check if the last player's two square neighbours or not 
-NOTE : i didn't make the program end before player 2 enters his last 2 choices .. i made it end when he 
+NOTE : i didn't make the program end before player 2 enters his last 2 choices ..it's ended when he enters them.
